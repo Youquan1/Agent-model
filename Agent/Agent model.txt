@@ -1,0 +1,10 @@
+BDI is Agent theoretical model research.
+one: B(Belief):Agent basic view of the environment.
+two:D(Desire):The state that Agent wants to achieve,this is,the goal.
+three:I(Intention):A component of a target.
+
+The main problems that Agent needs to solve:
+one:which modeles are made up of Agent.
+two:how the inforation between modules interacts.
+three:how Agent perceives information affects its internal state and behavior.
+four:how to conbine different modules into an organic whole in the from of hardware or software.

@@ -1,0 +1,10 @@
+1>Switch to the directory structure that needs to be uploaded
+2>git config --global user.name ''
+3>git config --global user.email ''
+4>You can check the configuration  --> git config -l
+5> git init 
+6>git remote add origin +Connection address
+7>git status
+8>git add *
+  git commit -m 'first-commit'  (Local entry into force)
+9>git push -u origin master (Remote push)
